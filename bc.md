@@ -50,9 +50,9 @@ y el entorno de programación *moderno* (VSCode).
 
   ## Plan de trabajo
   Realizado:  
-   [x] Instalación BC CU01  
-   [ ] Estudiar documentación sobre C/AL BC, AL, extensiones  
-   [ ] Dudas sobre el plantemiento de migración VF a BC  
-   [ ] Curso Innova  
+   - [x] Instalación BC CU01  
+   - [ ] Estudiar documentación sobre C/AL BC, AL, extensiones  
+   - [ ] Dudas sobre el plantemiento de migración VF a BC  
+   - [ ] Curso Innova  
   
 
